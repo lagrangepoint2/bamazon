@@ -1,5 +1,5 @@
 # bamazon
- An Amazon-like storefront with the MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
+ An Amazon-like storefront using MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
  
 **Screenshot #1**
  Screenshot #1 shows the MYSQL database before the customer going in placing any orders.
